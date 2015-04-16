@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=/home/NanoMembers/Desktop/LeonProject-markdev/grlib-gpl-1.1.0-b4113/designs/impact.xsl
+OUTFILE=/home/NanoMembers/Desktop/LeonProject-markdev/grlib-gpl-1.1.0-b4113/designs/impact.xsl
+FAMILY=Multiple
+PART=Multiple
+WORKINGDIR=/home/NanoMembers/Desktop/LeonProject-markdev/grlib-gpl-1.1.0-b4113/designs
+LICENSE=iMPACT
+USER_INFO=iMPACT
